@@ -1,1 +1,3 @@
 # home
+
+This project is for development planning so the planned enhancements, discussions, ... 
