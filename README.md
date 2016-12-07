@@ -8,9 +8,6 @@ This repository is the starting point for people to find their way in all other 
 
 
 Milestones:
-- [0.9.8](https://waffle.io/itsyouonline/home?milestone=0.9.8)
-  * Easier way for external sites to integrate using email as primary identifier
-  * Minor improvements and bugfixes
 - [0.9.9](https://waffle.io/itsyouonline/home?milestone=0.9.9)
   * Minor improvements and bugfixes
 - [0.9.10](https://waffle.io/itsyouonline/home?milestone=0.9.10)
