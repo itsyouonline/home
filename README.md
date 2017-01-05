@@ -9,8 +9,10 @@ This repository is the starting point for people to find their way in all other 
 
 Milestones:
 - [0.9.10](https://waffle.io/itsyouonline/home?milestone=0.9.10)
-  * Support for external phone verification services
   * Minor improvements and bugfixes
+- [0.9.11](https://waffle.io/itsyouonline/home?milestone=0.9.10)
+  * Notary
+  * Public profiles and information sharing
 - [1.0](https://waffle.io/itsyouonline/home?milestone=1.0)
   * Ability for users to share information directly
   * Contract management through the UI
