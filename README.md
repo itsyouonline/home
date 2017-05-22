@@ -2,7 +2,7 @@
 
 This repository is the starting point for people to find their way in all other repos in the Itsyou.online product organization.
 
-- owner of this organization = Rob Van Mieghem 
+- owner of this organization = Rob Van Mieghem  
   backup = Lee Smet
 
 - [Kanban](https://waffle.io/itsyouonline/home)
