@@ -13,6 +13,7 @@ Milestones:
   * Russian translations
   * Minor improvements and bugfixes
   * Ready for telegram integration
+  * before end of july
 - [1.0](https://waffle.io/itsyouonline/home?milestone=1.0)
   * end of summer
   * Ability for users to share information directly
