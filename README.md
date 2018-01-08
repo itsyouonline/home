@@ -2,12 +2,11 @@
 
 This repository is the starting point for people to find their way in all other repos in the Itsyou.online product organization.
 
-- owner of this organization = Rob Van Mieghem  
-  backup = Lee Smet
+- owner of this organization = Lee Smet & Rob Van Mieghem  
 
 Milestones:
 - [1.0 kanban](https://waffle.io/itsyouonline/home?milestone=1.0.0)
-  * end of summer
+  * end Jan 2018
   * Ability for users to share information directly
   * Public profiles and information sharing
   * Contract management through the UI
