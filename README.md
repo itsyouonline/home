@@ -7,9 +7,6 @@ This repository is the starting point for people to find their way in all other 
 Milestones:
 - [1.0 kanban](https://waffle.io/itsyouonline/home?milestone=1.0.0)
   * end Jan 2018
-  * Ability for users to share information directly
-  * Public profiles and information sharing
-  * Contract management through the UI
 
 Code Repos:
 - [Identityserver](https://github.com/itsyouonline/identityserver)
