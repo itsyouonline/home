@@ -6,11 +6,15 @@ This repository is the starting point for people to find their way in all other 
 
 Milestones:
 - [1.0 kanban](https://waffle.io/itsyouonline/home?milestone=1.0.0)
-  * end Jan 2018
-  * Currently deployed in staging
+  * First week Feb 2018
+  * Currently deployed in staging, first round of qa testing done
 - [1.0.1 kanban](https://waffle.io/itsyouonline/home?milestone=1.0.1)
   * Bugfixes and improvements which aren't visible to end users (add no new functionality)
   * No fixed release date yet, depends on requirements
+- [1.1.0 kanban](https://waffle.io/itsyouonline/home?milestone=1.1.0)
+ * Features which add functionality to end users
+ * No fixed release date yet, depends on requirements
+
 
 Code Repos:
 - [Identityserver](https://github.com/itsyouonline/identityserver)
