@@ -4,6 +4,8 @@ This repository is the starting point for people to find their way in all other 
 
 - owner of this organization = Lee Smet & Rob Van Mieghem  
 
+Telegram group: https://t.me/joinchat/BwYiEEF3_YHid8oV-j-D-A
+
 Milestones:
 - [1.0.2 kanban](https://waffle.io/itsyouonline/home?milestone=1.0.2)
   * Bugfixes and improvements which aren't visible to end users (add no new functionality)
